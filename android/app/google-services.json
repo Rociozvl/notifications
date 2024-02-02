@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420160848967",
+    "project_id": "flutter-notifications-30b92",
+    "storage_bucket": "flutter-notifications-30b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420160848967:android:766b991f03d0722c395d62",
+        "android_client_info": {
+          "package_name": "com.celestezavala.notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbIYnJQa2LbE2dt1qsQrDK1U8lspLiYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
